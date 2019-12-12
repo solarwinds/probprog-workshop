@@ -17,27 +17,27 @@ TBA
 ## References
 ### Textbooks
 
---- Machine Learning: A Probabilistic Perspective---Kevin P. Murphy. MIT Press (2012)
---- Pattern Recognition and Machine Learning---Christopher Bishop. Springer (2006)
---- Information Theory, Inference and Learning Algorithms---David J.C. Mackay. Cambridge University Press (2012)
---- Probabilistic Graphical Models---Daphne Koller. MIT Press (2009)
---- Probability Theory: The Logic of Science---E.T. Jaynes. Cambridge University Press (2003)
+- Machine Learning: A Probabilistic Perspective---Kevin P. Murphy. MIT Press (2012)
+- Pattern Recognition and Machine Learning---Christopher Bishop. Springer (2006)
+- Information Theory, Inference and Learning Algorithms---David J.C. Mackay. Cambridge University Press (2012)
+- Probabilistic Graphical Models---Daphne Koller. MIT Press (2009)
+- Probability Theory: The Logic of Science---E.T. Jaynes. Cambridge University Press (2003)
 
 ### Papers
---- MCMC using Hamiltonian dynamics---R. M. Neal (2010)
---- A Conceptual Introduction to Hamiltonian Monte Carlo---M. Betancourt (2017)
---- Probabilistic programming in Python using PyMC3---Salvatier, J., Wiecki​ T.V., Fonnesbeck C. (2016)
---- Forecasting at Scale---Taylor, S.J., Letham, B. (2017)
---- Are our brains Bayesian?---Robert Bain (2016)
+- MCMC using Hamiltonian dynamics---R. M. Neal (2010)
+- A Conceptual Introduction to Hamiltonian Monte Carlo---M. Betancourt (2017)
+- Probabilistic programming in Python using PyMC3---Salvatier, J., Wiecki​ T.V., Fonnesbeck C. (2016)
+- Forecasting at Scale---Taylor, S.J., Letham, B. (2017)
+- Are our brains Bayesian?---Robert Bain (2016)
 
 ### Videos
---- [Probabilistic Machine Learning - Prof. Zoubin Ghahramani](https://www.youtube.com/watch?v=095Ee0rKC14)
---- [Iain Murray: "Introduction to MCMC for Deep Learning"](https://www.youtube.com/watch?v=Em6mQQy4wYA)
---- [Machine learning - Importance sampling and MCMC I](https://www.youtube.com/watch?v=TNZk8lo4e-Q)
---- [Deep Probabilistic Modelling with Gaussian Processes - Neil D. Lawrence - NIPS Tutorial 2017](https://www.youtube.com/watch?v=NHTGY8VCinY)
---- [Austin Rochford | Variational Inference in Python](https://www.youtube.com/watch?v=3KGZDC3-_iY)Austin Rochford, 2016
---- [Deep Probabilistic Methods with PyTorch - Chris Ormandy](https://www.youtube.com/watch?v=HNKlytVD1Zg)
---- [PROBPROG Conference](https://www.youtube.com/channel/UCTFDb7aQY1ewBYwJJrpKp6Q)
+- [Probabilistic Machine Learning - Prof. Zoubin Ghahramani](https://www.youtube.com/watch?v=095Ee0rKC14)
+- [Iain Murray: "Introduction to MCMC for Deep Learning"](https://www.youtube.com/watch?v=Em6mQQy4wYA)
+- [Machine learning - Importance sampling and MCMC I](https://www.youtube.com/watch?v=TNZk8lo4e-Q)
+- [Deep Probabilistic Modelling with Gaussian Processes - Neil D. Lawrence - NIPS Tutorial 2017](https://www.youtube.com/watch?v=NHTGY8VCinY)
+- [Austin Rochford | Variational Inference in Python](https://www.youtube.com/watch?v=3KGZDC3-_iY)Austin Rochford, 2016
+- [Deep Probabilistic Methods with PyTorch - Chris Ormandy](https://www.youtube.com/watch?v=HNKlytVD1Zg)
+- [PROBPROG Conference](https://www.youtube.com/channel/UCTFDb7aQY1ewBYwJJrpKp6Q)
 
 ## Agenda
 
@@ -68,15 +68,19 @@ Open `localhost:8888` in your browser
 ## Demo links
 ### Gaussian process
 Interactive demo: https://gaussianprocess.herokuapp.com/
+
 Code: https://github.com/aybchan/gaussianprocess
 
 ### Markov chain
 [Markov chain simulation](http://setosa.io/markov)
+
 [3-state Markov chain simulation](http://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.1%2C0.1%2C0.8%5D%2C%5B0.5%2C0.3%2C0.2%5D%2C%5B0.7%2C0.1%2C0.2%5D%5D%7D)
 
 ### Markov chain Monte Carlo
 [Metropolis-Hastings on a banana](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=RandomWalkMH&target=banana): Vanilla MCMC demo
+
 [Metropolis-Hastings on a multimodal distribution](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=RandomWalkMH&target=multimodal): Lower proposal σ to demonstrate convergence problem
+
 [Hamiltonian Monte Carlo on a multimodal distribution](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=HamiltonianMC&target=multimodal): 
 
 
