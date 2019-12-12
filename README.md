@@ -91,10 +91,10 @@ If you can't/don't want to build the `docker` image, you can use `nbviewer` to f
 
 #### [Notebook 2: Markov chains and their stationary distributions](https://nbviewer.jupyter.org/github/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S2_markov_chains.ipynb)
 
-#### [Notebook 5: PyMC3: Bayesian coin flipping](https://github.com/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S5_pymc3_coin_flip.ipynb)
+#### [Notebook 5: PyMC3: Bayesian coin flipping](https://nbviewer.jupyter.org/github/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S5_pymc3_coin_flip.ipynb)
 
-#### [Notebook 6: PyMC3: Bayesian changepoint detection](https://github.com/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S6_pymc3_changepoint.ipynb)
+#### [Notebook 6: PyMC3: Bayesian changepoint detection](https://nbviewer.jupyter.org/github/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S6_pymc3_changepoint.ipynb)
 
-#### [Notebook 7: PyMC3: Bayesian time series analysis](https://github.com/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S7_pymc3_time_series.ipynb)
+#### [Notebook 7: PyMC3: Bayesian time series analysis](https://nbviewer.jupyter.org/github/solarwinds/probprog-workshop/blob/master/notebooks/solutions/S7_pymc3_time_series.ipynb)
 
 
