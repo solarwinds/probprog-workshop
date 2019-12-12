@@ -17,18 +17,18 @@ TBA
 ## References
 ### Textbooks
 
-- Machine Learning: A Probabilistic Perspective---Kevin P. Murphy. MIT Press (2012)
-- Pattern Recognition and Machine Learning---Christopher Bishop. Springer (2006)
-- Information Theory, Inference and Learning Algorithms---David J.C. Mackay. Cambridge University Press (2012)
-- Probabilistic Graphical Models---Daphne Koller. MIT Press (2009)
-- Probability Theory: The Logic of Science---E.T. Jaynes. Cambridge University Press (2003)
+- Machine Learning: A Probabilistic Perspective—Kevin P. Murphy. MIT Press (2012)
+- Pattern Recognition and Machine Learning—Christopher Bishop. Springer (2006)
+- Information Theory, Inference and Learning Algorithms—David J.C. Mackay. Cambridge University Press (2012)
+- Probabilistic Graphical Models—Daphne Koller. MIT Press (2009)
+- Probability Theory: The Logic of Science—E.T. Jaynes. Cambridge University Press (2003)
 
 ### Papers
-- MCMC using Hamiltonian dynamics---R. M. Neal (2010)
-- A Conceptual Introduction to Hamiltonian Monte Carlo---M. Betancourt (2017)
-- Probabilistic programming in Python using PyMC3---Salvatier, J., Wiecki​ T.V., Fonnesbeck C. (2016)
-- Forecasting at Scale---Taylor, S.J., Letham, B. (2017)
-- Are our brains Bayesian?---Robert Bain (2016)
+- MCMC using Hamiltonian dynamics—R. M. Neal (2010)
+- A Conceptual Introduction to Hamiltonian Monte Carlo—M. Betancourt (2017)
+- Probabilistic programming in Python using PyMC3—Salvatier, J., Wiecki​ T.V., Fonnesbeck C. (2016)
+- Forecasting at Scale—Taylor, S.J., Letham, B. (2017)
+- Are our brains Bayesian?—Robert Bain (2016)
 
 ### Videos
 - [Probabilistic Machine Learning - Prof. Zoubin Ghahramani](https://www.youtube.com/watch?v=095Ee0rKC14)
