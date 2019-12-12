@@ -13,7 +13,7 @@ Works on Mac and Linux machines, untested on Windows.
 
 ```
 git clone https://github.com/solarwinds/probprog-workshop.git
-cd techsummit
+cd probprog-workshop
 docker build -t probabilistic_programming docker
 docker run --mount src=`pwd`/notebooks,target=/workspace/notebooks,type=bind -p 8888:8888 -it probabilistic_programming
 ```
