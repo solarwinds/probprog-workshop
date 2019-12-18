@@ -12,7 +12,7 @@ In this workshop, we give an introduction to Bayesian statistics, the probabilis
 A probabilistic perspective towards machine learning allows for the principled representation and manipulation of uncertainty in models and predictions, and for probabilistic inference. The explicit quantification of uncertainty is properly understood as the logic of science; learning from data in a stochastic world can be done on such terms.
 
 ## Slides
-TBA
+`presentation/slides.pdf`
 
 ## References
 ### Textbooks
@@ -81,7 +81,7 @@ Code: https://github.com/aybchan/gaussianprocess
 
 [Metropolis-Hastings on a multimodal distribution](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=RandomWalkMH&target=multimodal): Lower proposal σ to demonstrate convergence problem
 
-[Hamiltonian Monte Carlo on a multimodal distribution](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=HamiltonianMC&target=multimodal): 
+[Hamiltonian Monte Carlo on a multimodal distribution](https://chi-feng.github.io/mcmc-demo/app.html?algorithm=HamiltonianMC&target=multimodal): Using gradient information for proposing next samples instead of a Gaussian centred at the current sample leads to faster convergence
 
 
 ## nbviewer
