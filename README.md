@@ -1,5 +1,6 @@
 
 # Introduction to Probabilistic Programming
+Author: Alex Chan | @aybchan
 
 ![agenda](front.png)
 
