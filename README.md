@@ -1,6 +1,6 @@
 
 # Introduction to Probabilistic Programming
-Author: Alex Chan | @aybchan
+Author: Alex Chan | @[__aybchan__](https://github.com/aybchan)
 
 ![agenda](front.png)
 
@@ -36,7 +36,7 @@ A probabilistic perspective towards machine learning allows for the principled r
 - [Iain Murray: "Introduction to MCMC for Deep Learning"](https://www.youtube.com/watch?v=Em6mQQy4wYA)
 - [Machine learning - Importance sampling and MCMC I](https://www.youtube.com/watch?v=TNZk8lo4e-Q)
 - [Deep Probabilistic Modelling with Gaussian Processes - Neil D. Lawrence - NIPS Tutorial 2017](https://www.youtube.com/watch?v=NHTGY8VCinY)
-- [Austin Rochford | Variational Inference in Python](https://www.youtube.com/watch?v=3KGZDC3-_iY)Austin Rochford, 2016
+- [Austin Rochford | Variational Inference in Python](https://www.youtube.com/watch?v=3KGZDC3-_iY)
 - [Deep Probabilistic Methods with PyTorch - Chris Ormandy](https://www.youtube.com/watch?v=HNKlytVD1Zg)
 - [PROBPROG Conference](https://www.youtube.com/channel/UCTFDb7aQY1ewBYwJJrpKp6Q)
 
@@ -65,6 +65,12 @@ docker build -t probabilistic_programming docker
 docker run --mount src=`pwd`/notebooks,target=/workspace/notebooks,type=bind -p 8888:8888 -it probabilistic_programming
 ```
 Open `localhost:8888` in your browser
+
+Once you have finished, you may want to delete the Docker image:
+
+```
+docker rmi probabilistic_programming
+```
 
 ## Demo links
 ### Gaussian process
